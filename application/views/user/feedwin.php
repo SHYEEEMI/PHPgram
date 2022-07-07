@@ -79,7 +79,3 @@
     </div>
 </div>
 <?php } ?>
-<!--light box-->-
-<div id="lightbox">
-    <img src="" id="lightboxImage">
-</div>
